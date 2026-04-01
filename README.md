@@ -28,10 +28,17 @@ Saya adalah mahasiswa **Universitas Amikom** yang memiliki gairah besar dalam du
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 Aktivitas GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SukmaPutri10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Statistik Sukma" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukmaPutri10&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Bahasa Teratas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SukmaPutri10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Statistik Sukma" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SukmaPutri10&theme=tokyonight&hide_border=true" width="48%" alt="Streak Sukma" />
+</p>
+
+### 💻 Bahasa Pemrograman
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukmaPutri10&layout=compact&theme=tokyonight&hide_border=true" width="70%" alt="Bahasa Teratas" />
 </p>
 
 ---
