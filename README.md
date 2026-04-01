@@ -30,8 +30,8 @@ Saya adalah mahasiswa **Universitas Amikom** yang memiliki gairah besar dalam du
 
 ### 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Statistik Sukma" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Bahasa Teratas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SukmaPutri10&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Statistik Sukma" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SukmaPutri10&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Bahasa Teratas" />
 </p>
 
 ---
